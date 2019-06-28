@@ -1,3 +1,4 @@
+    
 package com.tedu.sp01.pojo;
 
 import lombok.AllArgsConstructor;
@@ -10,8 +11,6 @@ import lombok.NoArgsConstructor;
 public class Item {
 	//编号11111111111
 	private Integer id;
-	//姓名
-	//222222222
 	//姓名33333
 	private String name;
 	private Integer number;
